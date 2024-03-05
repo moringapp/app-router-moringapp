@@ -184,3 +184,5 @@ class Auth implements AuthInterface {
     };
   }
 }
+
+export default Auth;
